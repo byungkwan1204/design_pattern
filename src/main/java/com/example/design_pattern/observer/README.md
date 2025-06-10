@@ -38,9 +38,9 @@ notifyObservers() {
 
 ## 예시
 
-(스윙라이브러리) GUI에서 버튼에 event를 감시하는 방법도 옵저버로 진행된다. mouseClick이 일어나면, 
+(스윙라이브러리) GUI에서 버튼에 event를 감시하는 방법도 옵저버로 진행된다. 
 
-mouseClick에 등록된 eventListener들이 그 소식을 받게 되고, 이벤트가 진행되게된다.
+mouseClick이 일어나면, mouseClick에 등록된 eventListener들이 그 소식을 받게 되고, 이벤트가 진행되게된다.
 
 <b> Push방식 vs Pull 방식 </b>
 
